@@ -1,6 +1,9 @@
-## Welcome to GitHub Pages
-dfarsgsghkdjhkdheiid
-
+## About me
+I am a final year civil engineering student of MESCE kuttippuram. Iam basically a malayali , born and brought up in kerala.
+## Introduction to fablab
+  First day of fablab mainly dealt with the introduction of the lab, machines and softwares. It also gave an overview about the application of this lab with the needs and invention of the modern world. The trending design of many models that have been developed using the fablab surprised us.
+  ## 3 D printing machine
+  Printing a 3 dimensional prototype of a designed product can be successfully be done using 3D printing machine. 
 You can use the [editor on GitHub](https://github.com/Thasneembanu/Thasneembanu.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
