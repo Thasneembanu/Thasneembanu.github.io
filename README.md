@@ -4,12 +4,19 @@ I am a final year civil engineering student of MESCE kuttippuram. Iam basically 
   First day of fablab mainly dealt with the introduction to the lab, machines, softwares and methodology used. It also gave an overview about the application of this lab with the needs and inventions of the modern world. The trending design of many models that have been developed using the fablab surprised us.
   ## 3 D printing machine
   Printing a 3 dimensional prototype of a designed product or even a product, can be successfully be done using 3D printing machine. The machine can moved in 3 axes inorder to provide a 3D model. Rhinoceros is one of the software used for the designing of the model and it is then converted into j code by another sofftware known as cura. Then the machine can operates according to the information and design provided  for providing a good model. The material and quality of the material can also be controlled.
+  ## vinyl cutting machine
+  Vinyl cutting machine is mainly used for cutting out stickers and these can be used for different purposes. The required sticker is selected and editted with the help of a software in our computer. The computer controls the movement of blade in the machine. 
+  ## Laser cutting machine
+  The machine is mainly used for cutting materials such as cardboard, mica sheet, plywood...etc. These can be used for making out boards,  archiectural and engineering works from these materials. It consist of a laser blade for cutting. Here we have to design the product in 2 D blocks and these blocks are joined together to form the original model. After designing the material it have to be get converted into G code and the material can be easily cutdown.
+  
+
   
 You can use the [editor on GitHub](https://github.com/Thasneembanu/Thasneembanu.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
