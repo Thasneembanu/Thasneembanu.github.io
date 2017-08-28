@@ -7,7 +7,7 @@ I am a final year civil engineering student of MESCE kuttippuram. Iam basically 
   ## vinyl cutting machine
   Vinyl cutting machine is mainly used for cutting out stickers and these can be used for different purposes. The required sticker is selected and editted with the help of a software in our computer. The computer controls the movement of blade in the machine. 
   ## Laser cutting machine
-  The machine is mainly used for cutting materials such as cardboard, mica sheet, plywood...etc. These can be used for making out boards,  archiectural and engineering works from these materials. It consist of a laser blade for cutting. Here we have to design the product in 2 D blocks and these blocks are joined together to form the original model. After designing the material it have to be get converted into G code and the material can be easily cutdown.
+  The machine is mainly used for cutting materials such as cardboard, mica sheet, plywood...etc. These can be used for making out boards,  architectural and engineering works from these materials. It consist of a laser blade for cutting. Here, we have to design the product in 2 D blocks and these blocks are joined together to form the original model. After designing the material it have to be get converted into G code and the material can be easily cutdown.
   
 
   
